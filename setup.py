@@ -86,7 +86,6 @@ def SetupDate():
             install_requires=[
                 'requests>=2.28.1',
                 'wget>=3.2',
-                'pandas>=1.5.0'
             ],
             classifiers=[
                 "Development Status :: 2 - Pre-Alpha",
